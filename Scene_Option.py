@@ -12,7 +12,7 @@ class Scene_Option:
     mfont2 = pygame.font.Font("msjh.ttf", 24)
     graphics_bg = pygame.image.load("Graphics/bg0002.png")
 
-    audio_bgm_filename = "Audio/BGM/lobby.ogg"
+    audio_bgm_filename = "Audio/BGM/lobby.mp3"
 
     audio_se_ok_filename = "Audio/SE/button_p.wav"
     frame = 0

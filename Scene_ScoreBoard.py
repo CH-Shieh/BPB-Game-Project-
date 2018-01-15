@@ -10,7 +10,7 @@ class Scene_ScoreBoard:
     mfont2 = pygame.font.Font("msjh.ttf", 24)
     graphics_bg = pygame.image.load("Graphics/bg0004.png")
 
-    audio_bgm_filename = "Audio/BGM/bgm_03.ogg"
+    audio_bgm_filename = "Audio/BGM/bgm_03.mp3"
     frame = 0
     WINDOWWIDTH = 800 # size of window's width in pixels
     WINDOWHEIGHT = 720 # size of windows' height in pixels

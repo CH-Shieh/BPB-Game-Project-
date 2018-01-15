@@ -10,7 +10,7 @@ class Scene_Credits:
     mfont2 = pygame.font.Font("msjh.ttf", 18)
     graphics_bg = pygame.image.load("Graphics/bg_xfly.png")
 
-    audio_bgm_filename = "Audio/BGM/credits.ogg"
+    audio_bgm_filename = "Audio/BGM/credits.mp3"
     frame = 0
     WINDOWWIDTH = 800 # size of window's width in pixels
     WINDOWHEIGHT = 720 # size of windows' height in pixels

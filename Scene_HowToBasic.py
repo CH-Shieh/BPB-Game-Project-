@@ -10,7 +10,7 @@ class Scene_HowToBasic:
     mfont2 = pygame.font.Font("msjh.ttf", 24)
     graphics_bg = pygame.image.load("Graphics/bg0001 (22).png")
 
-    audio_bgm_filename = "Audio/BGM/bgm_01.ogg"
+    audio_bgm_filename = "Audio/BGM/bgm_01.mp3"
     frame = 0
     WINDOWWIDTH = 800 # size of window's width in pixels
     WINDOWHEIGHT = 600 # size of windows' height in pixels

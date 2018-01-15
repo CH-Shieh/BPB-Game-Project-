@@ -35,7 +35,7 @@ class Scene_GamePlay_Double:
     Img_BG.blit(Black_BG_Full,(0,0))
     Img_BG = pygame.transform.scale(Img_BG,(930,WINDOWHEIGHT))
     Black_BG_Full.set_alpha(192)
-    audio_bgm_filename = ["Audio/BGM/bgm_01 (2).ogg","Audio/BGM/bgm_02 (2).ogg","Audio/BGM/bgm_03 (2).ogg"]
+    audio_bgm_filename = ["Audio/BGM/bgm_01 (2).mp3","Audio/BGM/bgm_02 (2).mp3","Audio/BGM/bgm_03 (2).mp3"]
     audio_se_ko_filename = "Audio/SE/21_ko1.wav"
     audio_se_side_filename = "Audio/SE/sfx_rotatefail.wav"
     audio_se_shoot_filename = "Audio/SE/sfx_rotate.wav"

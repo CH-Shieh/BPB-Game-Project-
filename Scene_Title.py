@@ -9,7 +9,7 @@ from DB import DB
 import time
 class Scene_Title:
 
-    audio_bgm_filename = "Audio/BGM/select.ogg"
+    audio_bgm_filename = "Audio/BGM/select.mp3"
 
     audio_se_ok_filename = "Audio/SE/button_p.wav"
     frame = 0
